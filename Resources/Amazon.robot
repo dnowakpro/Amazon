@@ -1,5 +1,4 @@
 *** Settings ***
-Library  SeleniumLibrary
 Resource  ../Resources/PO/LandingPage.robot
 Resource  ../Resources/PO/TopNav.robot
 Resource  ../Resources/PO/ProductList.robot
